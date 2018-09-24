@@ -23,7 +23,7 @@ header {
 nav {
     float: right;   
     padding: 15px;
-    margin-right: 290px; 
+    margin-right: 385px; 
       
 }
 
@@ -45,6 +45,7 @@ section {
     width: 630px;
     margin-left: 355px;
     border: 5px solid #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
    
 }
 
@@ -58,8 +59,7 @@ footer {
     width: 100%;;
     color: white;
     text-align: center;
-    border-top: 5px solid #4aaaa5;
-    
+    border-top: 5px solid #4aaaa5;   
      
 }
 
@@ -72,42 +72,13 @@ h2 {
    font-family: 'Times New Roman', Times, serif;
 }
 
- p  {
-    
-    color: #777777;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
- }
-
- h6 {
+h6 {
      margin-bottom: 0px;
- }
+}
 
-#border {
-     border: solid 1px;
+#button {
+     background: #4aaaa5;
      padding: 10px;
-
-}
-
-#border2 {
-     border: solid 1px #777777;
-     padding: 10px;
-
-}
-
-#border3 {
-    border: solid 1px #777777;
-    padding: 80px;
-
-}
-
-button {
-    background: #4aaaa5;
-    color: white;
-    padding: 10px 20px;
-    cursor: pointer;
-
-
-
-
+     cursor: pointer;
+     font-weight: bold;
 }
