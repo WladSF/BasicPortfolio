@@ -83,7 +83,26 @@ h3 {
     left: 2px;
 }
 
+#text {
+    color: white;
+    font-weight: bold;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    opacity: 1;
+}
+
+div {
+    position: relative;
+    text-align: center;
+   
 
 
+
+}
 
 
