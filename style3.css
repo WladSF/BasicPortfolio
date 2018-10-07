@@ -72,17 +72,6 @@ h2 {
      margin-bottom: 0px;
 }
 
-.twopics {
-    margin-bottom: 10px;
-    position: relative;
-    
-}
-
-.twopics img  {
-    margin-right: 10px;
-    border: solid 2px #777777;   
-}
-
 h3 {
     position: absolute;
     top: 80px;
@@ -93,50 +82,7 @@ h3 {
     padding: 5px;
     left: 2px;
 }
-  
-#tech {
-    position: absolute;
-    top: 80px;
-    color: white;
-    background: #4aaaa5;
-    width: 27%;
-    text-align: center;
-    padding: 5px;
-    left: 200px;
-}
-  
-#nature {
-    position: absolute;
-    top: 80px;
-    color: white;
-    background: #4aaaa5;
-    width: 27%;
-    text-align: center;
-    padding: 5px;
-    left: 2px;
-}
 
-#animal {
-    position: absolute;
-    top: 80px;
-    color: white;
-    background: #4aaaa5;
-    width: 27%;
-    text-align: center;
-    padding: 5px;
-    left: 200px;
-}
-
-#water {
-    position: absolute;
-    top: 80px;
-    color: white;
-    background: #4aaaa5;
-    width: 27%;
-    text-align: center;
-    padding: 5px;
-    left: 2px;
-}
 
 
 
