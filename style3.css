@@ -22,8 +22,7 @@ header {
 nav {
     float: right;   
     padding: 15px;
-    margin-right: 330px; 
-      
+    margin-right: 330px;     
 }
 
 a {
@@ -42,8 +41,7 @@ section {
     margin-top: 20px;  
     width: 630px;
     margin-left: 355px;
-    border: 5px solid #dddddd;
-   
+    border: 5px solid #dddddd;  
 }
 
 footer {
@@ -74,7 +72,7 @@ h2 {
    font-family: 'Times New Roman', Times, serif;
 }
 
- h6 {
+h6 {
      margin-bottom: 0px;
 }
 
@@ -105,10 +103,8 @@ h3 {
 div {
     position: relative;
     text-align: center;
-   
-
-
-
 }
 
-
+img {
+    border: #666666 solid 5px;
+}
