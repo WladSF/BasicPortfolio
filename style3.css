@@ -40,7 +40,8 @@ section {
     color: #777777;
     margin-top: 20px;  
     width: 630px;
-    margin-left: 355px;
+    height: 500px;
+    margin: auto;
     border: 5px solid #dddddd;  
 }
 
@@ -120,6 +121,7 @@ div {
 
 img {
     border: #666666 solid 5px;
+    flo
 }
  
 #text2 {
@@ -134,3 +136,8 @@ img {
     transform: translate(-50%, -50%); 
     opacity: 1;
 }
+/* 
+.icons {
+    float: left;
+    margin: auto;
+} */
