@@ -101,7 +101,6 @@ h3 {
     opacity: 1;
 }
 
-
 #text1 {
     color: black;
     font-weight: bold;
@@ -121,7 +120,6 @@ div {
 
 img {
     border: #666666 solid 5px;
-    flo
 }
  
 #text2 {
@@ -136,8 +134,3 @@ img {
     transform: translate(-50%, -50%); 
     opacity: 1;
 }
-/* 
-.icons {
-    float: left;
-    margin: auto;
-} */
